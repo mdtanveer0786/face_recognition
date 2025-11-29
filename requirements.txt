@@ -1,3 +1,6 @@
+setuptools>=65.0.0
+wheel
+cmake
 blinker==1.8.2
 click==8.1.8
 colorama==0.4.6
